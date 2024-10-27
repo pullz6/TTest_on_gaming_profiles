@@ -12,9 +12,7 @@
 ## Project Structure
 
 ```bash
-bash
-Copy code
-project-root/
+Repo/
 │                 # Source files
 ├── data/                # Sample datasets
 ├── notebooks/           # Jupyter notebooks
